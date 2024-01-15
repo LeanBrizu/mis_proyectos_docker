@@ -4,3 +4,6 @@
 [submodule "PHP 5.3 - Apache - Debian"]
 	path = PHP 5.3 - Apache - Debian
 	url = https://github.com/LeanBrizu/proyecto_ael_php5.3.git
+[submodule "PHP 5.6.40 FPM - Alpine - Nginx"]
+	path = PHP 5.6.40 FPM - Alpine - Nginx
+	url = https://github.com/LeanBrizu/veladero_digital.git
