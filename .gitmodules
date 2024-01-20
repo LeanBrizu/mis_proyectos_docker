@@ -16,3 +16,6 @@
 [submodule "PHP 8.1 - Apache-MySQL 5.7-Mailhog"]
 	path = PHP 8.1 - Apache-MySQL 5.7-Mailhog
 	url = https://github.com/LeanBrizu/PHP-8.1---Apache-MySQL-5.7-Mailhog.git
+[submodule "PHP 8.1.18 RC1 FPM - Alpine 3.17"]
+	path = PHP 8.1.18 RC1 FPM - Alpine 3.17
+	url = https://github.com/LeanBrizu/PHP-8.1.18-RC1-FPM---Alpine-3.17.git
