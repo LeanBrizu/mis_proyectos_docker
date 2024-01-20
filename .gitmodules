@@ -13,3 +13,6 @@
 [submodule "PHP 7.3.5 - Apache - Debian Stretch"]
 	path = PHP 7.3.5 - Apache - Debian Stretch
 	url = https://github.com/LeanBrizu/PHP-7.3.5---Apache---Debian-Stretch.git
+[submodule "PHP 8.1 - Apache-MySQL 5.7-Mailhog"]
+	path = PHP 8.1 - Apache-MySQL 5.7-Mailhog
+	url = https://github.com/LeanBrizu/PHP-8.1---Apache-MySQL-5.7-Mailhog.git
