@@ -7,3 +7,6 @@
 [submodule "PHP 5.6.40 FPM - Alpine - Nginx"]
 	path = PHP 5.6.40 FPM - Alpine - Nginx
 	url = https://github.com/LeanBrizu/veladero_digital.git
+[submodule "PHP 7.2 - Apache"]
+	path = PHP 7.2 - Apache
+	url = https://github.com/LeanBrizu/PHP-7.2---Apache.git
