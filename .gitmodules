@@ -19,3 +19,6 @@
 [submodule "PHP 8.1.18 RC1 FPM - Alpine 3.17"]
 	path = PHP 8.1.18 RC1 FPM - Alpine 3.17
 	url = https://github.com/LeanBrizu/PHP-8.1.18-RC1-FPM---Alpine-3.17.git
+[submodule "C# - SDK 8.0 - Runtime 8.0 - Base Project"]
+	path = "C# - SDK 8.0 - Runtime 8.0 - Base Project"
+	url = https://github.com/LeanBrizu/C---SDK-8.0---Runtime-8.0---Base-Project.git
